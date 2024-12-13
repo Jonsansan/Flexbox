@@ -10,8 +10,8 @@ body {
 }
 .item {
   height: 32px;
-  border: 2px solid hsl(210deg 8% 50%);
-  background: hsl(210deg 15% 20%);
+  border: 2px solid hsl(209, 91%, 22%);
+  background: hsl(209, 46%, 16%);
 }
 .item.stretch {
   /*
